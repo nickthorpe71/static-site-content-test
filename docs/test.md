@@ -1,5 +1,5 @@
 ---
-title: Thank you!
+title: test
 ---
 
 Congratulations on making it this far!
